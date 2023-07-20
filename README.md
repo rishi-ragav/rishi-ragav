@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-ragav&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-ragav" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **Computer Vision & Full Stack Development**
 
 - 🌱 I’m currently learning **Java**
 
