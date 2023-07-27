@@ -13,7 +13,7 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/rishi-ragav-46a29a209/](https://www.linkedin.com/in/rishi-ragav-v/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi ragav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishi-ragav-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi ragav" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rishi._.ragav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi._.ragav" height="30" width="40" /></a>
 </p>
 
